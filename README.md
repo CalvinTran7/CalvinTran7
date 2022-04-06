@@ -20,4 +20,5 @@ I am Full Stack Developer from Orange County. I recently finished a Software Dev
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinTran7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](www.linkedin.com/in/calvintran7)
+
+[www.linkedin.com/in/calvintran7](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
