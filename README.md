@@ -4,10 +4,14 @@ I am Full Stack Developer / Machine Learning Engineer from Orange County. I rece
 
 ## 🙋‍♂️   A Little About Me
 * 🧰  Tools I like using:  JavaScript, React, HTML, CSS, Python,
-* 📖  Tech I want to learn: Python, Computer Vision, Deep Learning
+* 📖  Tech I want to learn: Ruby, Computer Vision, Deep Learning
 * 🎥  Big MCU Fan
 * 🏀  Basketball
 * 🧗‍♂️  Rock Climbing
 * 🏄‍♂️  Surfing 
 
+
+## 📊   GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinTran7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
