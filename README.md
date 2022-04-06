@@ -1,3 +1,5 @@
+<p><img align="center" src="https://github.com/CalvinTran7/CalvinTran7/blob/main/hello.gif" /> </p>
+
 ### Hi I'm Calvin 👋
 
 I am Full Stack Developer / Machine Learning Engineer from Orange County. I recently finished a Software Developer Internship at More Mathematical Investments. 
