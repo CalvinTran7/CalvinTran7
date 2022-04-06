@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I'm Calvin 👋
 
-<!--
-**CalvinTran7/CalvinTran7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Full Stack Developer / Machine Learning Engineer from Orange County. I recently finished a Software Developer Internship at More Mathematical Investments. 
 
-Here are some ideas to get you started:
+## 🙋‍♂️   A Little About Me
+🧰  Tools I like using: Python, JavaScript, React, HTML, CSS
+📖  Tech I want to learn: Computer Vision, Deep Learning, Ruby
+🎥  Big MCU Fan
+🏀  Basketball
+🧗‍♂️  Rock Climbing
+🏄‍♂️  Surfing 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalvinTran7)](https://github.com/anuraghazra/github-readme-stats)
