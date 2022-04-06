@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github.com/CalvinTran7/CalvinTran7/blob/main/hello.gif" width="200 /> </p>
+<p><img align="center" src="https://github.com/CalvinTran7/CalvinTran7/blob/main/hello.gif" width="200" /> </p>
 
 ### Hi I'm Calvin 👋
 
