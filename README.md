@@ -1,4 +1,7 @@
-<img src="https://github.com/CalvinTran7/CalvinTran7/blob/main/hello.gif" align="center"/>
+
+<p align="center">
+  <img src="https://github.com/CalvinTran7/CalvinTran7/blob/main/hello.gif" />
+</p>
 
 <h1 align="center">Hi I'm Calvin 👋 </h1>
 
